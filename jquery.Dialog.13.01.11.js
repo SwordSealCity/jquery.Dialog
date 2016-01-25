@@ -381,4 +381,3 @@ function dialog(content, options) {
     dlg.show();
     return dlg;
 }
-
